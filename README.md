@@ -54,19 +54,45 @@ contract OxBob {
 
 ---
 
-### 📦 &nbsp;Pinned Projects
+### 🛠 &nbsp;Tech Stack
 
-> Real projects pinned below ↓ — DeFi protocols, bots, token launches, NFT platforms
+**Smart Contracts**
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Foundry](https://img.shields.io/badge/Foundry-000000?style=flat-square&logoColor=white)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat-square&logo=openzeppelin&logoColor=white)
+![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=flat-square&logo=chainlink&logoColor=white)
+
+**Frontend & DApps**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Wagmi](https://img.shields.io/badge/Wagmi-000000?style=flat-square&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Bots & Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+
+**Chains**
+
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Base](https://img.shields.io/badge/Base-0052FF?style=flat-square&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
+![BNB Chain](https://img.shields.io/badge/BNB_Chain-F3BA2F?style=flat-square&logo=binance&logoColor=black)
+![Arbitrum](https://img.shields.io/badge/Arbitrum-28A0F0?style=flat-square&logoColor=white)
+![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=flat-square&logo=polygon&logoColor=white)
 
 ---
 
-### 📊 &nbsp;Stats
+### 📦 &nbsp;Featured Repos
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xbobdev&show_icons=true&theme=radical&bg_color=060610&title_color=c084fc&icon_color=7c3aed&text_color=e2e8f0&border_color=7c3aed&hide_border=false" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xbobdev&layout=compact&theme=radical&bg_color=060610&title_color=c084fc&text_color=e2e8f0&border_color=7c3aed&hide_border=false" height="160"/>
-</div>
+> Pinned below ↓ — staking contracts, DApps, bots, token launches
 
 ---
 
